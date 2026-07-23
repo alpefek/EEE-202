@@ -1,5 +1,5 @@
 # EEE-202
-Labs and reports for the EEE 202 course.
+Labs and reports for the EEE 202 course that have been given out in the Spring 2026 semester.
 
 The purpose of this repository is to help Bilkent students in understanding derivation methodologies and formatting structures for the Circuit Theory course.
 
